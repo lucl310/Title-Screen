@@ -1,6 +1,31 @@
 body{
-	background-color: lightgrey;
-	color: purple;
+
+	background-image: url("../owls.gif");
+	color: blue;
 	font-family: verdana;	
 	font-size: 40px;
+	height: 720px;
+	width: 1080px;
+}
+#but{
+	border: solid;
+	border-color: orange;
+	border-width: 5px;
+	background-color: purple;
+	height: 200px;
+	width: 800px;
+	color: white;
+	font-size: 40px;
+	font-family: verdana;
+}
+.but{
+	border: solid;
+	border-color: orange;
+	border-width: 5px;
+	background-color: green;
+	height: 200px;
+	width: 800px;
+	color: yellow;
+	font-size: 40px;
+	font-family: verdana;
 }
